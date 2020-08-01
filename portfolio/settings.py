@@ -129,4 +129,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER ='mishraa.prabhat@gmail.com'
-EMAIL_HOST_PASSWORD = 'Golu311#'
+EMAIL_HOST_PASSWORD = ''
