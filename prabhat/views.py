@@ -19,7 +19,7 @@ class MyView(View):
             subject = form.cleaned_data['subject']
             message = form.cleaned_data['message']
             recipients = ['mishraa.prabhat@gmail.com']
-            print(name)
+            print("aya hai")
             if sender:
                 #send_mail(subject, "Name: "+name+"\nEmail: "+sender+"\n\n"+message, sender, recipients)
                 data={'messages':'done'}
